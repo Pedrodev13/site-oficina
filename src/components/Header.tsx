@@ -9,8 +9,8 @@ const [isOpen, setIsOpen] = useState(false);
 return (
     <nav className="bg-gray-800 p-4 font-montserrat-bold">
     <div className="container mx-auto flex justify-between items-center">
-        <div className="text-white text-lg font-bold">
-            <img className='w-16 mx-10' src={img.src} alt="" />
+        <div className="font-montserrat-bold text-white text-lg font-bold">
+            Oficinas
         </div>
         <div className="hidden md:text-xl md:flex space-x-6">
         <a href="#home" className="text-white">Home</a>
