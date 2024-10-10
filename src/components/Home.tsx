@@ -7,7 +7,7 @@ return (
     <div className="text-white font-montserrat">
         <img className='w-28 md:w-40 m-auto mb-28' src={img.src} alt="" />
         <h1 className="text-4xl md:text-6xl font-bold">Bem-vindo ao site das oficinas do CEJAAP</h1>
-        <p className="mt-4 text-lg">Você verá aqui, projetos criados nas oficinas.</p>
+        <p className="mt-4 text-lg">Você verá aqui, projetos criados nas oficinas em 2024.</p>
     </div>
     </section>
 );
