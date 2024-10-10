@@ -6,14 +6,14 @@ const professores = [
     title: "Informática",
     description: "Professor Pedro Peres",
     imageUrl: "pedro.jpg",
-    download: "https://api.whatsapp.com/send?phone=557598278271&text=Ol%C3%A1%2C%20vim%20pelo%20site%20das%20oficinas.",
+    download: "https://api.whatsapp.com/send?phone=5575982782718&text=Ol%C3%A1%2C%20vim%20pelo%20site%20das%20oficinas.",
     },
     {
     id: 2,
     title: "Matemática",
     description: "Professor Francisco Xavier",
     imageUrl: "francisco.jpg",
-    download: "https://api.whatsapp.com/send?phone=5575983116728&text=Ol%C3%A1%2C%20vim%20pelo%20site%20das%20oficinas.",
+    download: "https://api.whatsapp.com/send?phone=5575983116726&text=Ol%C3%A1%2C%20vim%20pelo%20site%20das%20oficinas.",
     },
     {
     id: 3,
