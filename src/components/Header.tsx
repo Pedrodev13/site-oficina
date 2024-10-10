@@ -12,9 +12,7 @@ return (
         <div className="md:text-xl flex  space-x-6">
         <a href="#home" className="text-white">Home</a>
         <a href="#projects" className="text-white">Projetos</a>
-        <a href="#professores" className="text-white">Contato</a>
-        </div>
-        <div className="md:hidden">
+        <a href="#contato" className="text-white">Contato</a>
         </div>
     </div>
     </nav>
