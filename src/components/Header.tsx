@@ -15,7 +15,7 @@ return (
         <div className="hidden md:text-xl md:flex space-x-6">
         <a href="#home" className="text-white">Home</a>
         <a href="#projects" className="text-white">Projetos</a>
-        <a href="#contact" className="text-white">Contato</a>
+        <a href="#professores" className="text-white">Contato</a>
         </div>
         <div className="md:hidden">
         <button onClick={() => setIsOpen(!isOpen)} className="text-white">
